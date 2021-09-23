@@ -11,7 +11,7 @@ Application for E-Learning video. Developed using Flutter
 
 ## 🎥 Promo Video
 
-Watch the promo video <a href="https://drive.google.com/file/d/13fuFjlmioDra2Uc1FNtYpTJKjp_yH-91/view?usp=drivesdk">here.</a>
+Watch the promo video <a href="https://drive.google.com/file/d/1L0ewRfwFj4TzPm0xLPVjxPCKd1mbTL2d/view?usp=sharing">here.</a>
 
 ## 💻 Installation steps
 
@@ -20,8 +20,8 @@ It will be best compatible with `Flutter 1.22` version.
 Open CMD where you want to clone the project & run the following commands
 
 ```
-git clone https://github.com/tapasmeher10/smart-course-app.git
-cd smart-course-app
+git clone https://github.com/Almostsagar/Course-app.git
+cd Course-app
 flutter packages get
 flutter run
 ```
