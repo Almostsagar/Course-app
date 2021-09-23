@@ -1,1 +1,1 @@
-# Course-app
+# smart_course_app
